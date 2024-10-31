@@ -1,0 +1,30 @@
+1.1.0 - Ianuary 5, 2016
+Improvement: Removed Envato releated code.
+
+1.0.13 – October 2, 2016
+Improvement: Reindexing will continue even on HTTP 500 error.
+Improvement: Do not reindex revisions.
+
+1.0.11 – October 2, 2016
+BugFix: Fixed bug on reindex, when SHORTCODE echoed content
+
+
+1.0.10 – October 2, 2016
+New: Added German language
+New: Added Spanish language
+New: Comment indexing and search
+New: Advanced Debugger
+
+
+1.0.8 – September 6, 2016
+Bugfix: Fixed JS console error on stats page
+Bugfix: Fixed WordCloud with non UTF-8 characters
+Improvement: Default sort set to Date DESC
+Improvement: Added CHANGELOG.txt
+Improvement: Added back Image Search (Google)
+
+1.0.6 – September 2, 2016
+First public release.
+
+
+
